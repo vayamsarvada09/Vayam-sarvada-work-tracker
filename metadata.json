@@ -1,0 +1,6 @@
+{
+  "name": "Vayam Sarvada Post Tracker",
+  "description": "Daily posting schedule checklist and tracker for Instagram Reels and YouTube Shorts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
